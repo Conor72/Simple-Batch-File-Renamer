@@ -1,6 +1,6 @@
 //REMOVE THESE COMMENTS OTHERWISE SCRIPT WILL NOT WORK
 
-//Set UNWANTEDNAME as the name of the file when downloaded and change NEWNAMGE to the desired name
+//Set UNWANTEDNAME as the name of the file when downloaded and change NEWNAME to the desired name
 //Store the files in a folder and then paste the directory at the top of the code
 //Then double-click this file to run the script
 
